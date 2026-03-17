@@ -3,6 +3,9 @@
 [![Python 3.14+](https://img.shields.io/badge/python-3.14%2B-blue?logo=python)](#)
 [![MIT](https://img.shields.io/badge/license-see%20LICENSE-yellow.svg)](./LICENSE)
 
+# Continous Inteligence Project 2 Static Anomalies
+## by Jarred Gastreich, March 2026
+
 > Professional Python project for continuous intelligence.
 
 Continuous intelligence systems monitor data streams, detect change, and respond in real time.
@@ -97,7 +100,7 @@ open a machine terminal in your `Repos` folder:
 
 ```shell
 # Replace username with YOUR GitHub username.
-git clone https://github.com/username/cintel-02-static-anomalies
+git clone https://github.com/jarjarredred/cintel-02-static-anomalies
 
 cd cintel-02-static-anomalies
 code .
