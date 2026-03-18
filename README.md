@@ -5,6 +5,8 @@
 
 # Continous Inteligence Project 2 Static Anomalies
 ## by Jarred Gastreich, March 2026
+### Updates:
+Updated project code to change max age and max height.
 
 > Professional Python project for continuous intelligence.
 
