@@ -1,3 +1,20 @@
+## Custom Project
+
+### Dataset
+Pediatric clinic data containing client age and height in inches.
+
+### Signals
+age_years and height_inches
+
+### Experiments
+Modified max age and height to check for anomalies for either, and then modified it to check for anomalies containing both.
+
+### Results
+Modifing age and height resulted in accruate anomalies that caught additional anomalies that the standard code did not. Including the "&" code resulted in fewer anomalies that showed clients that met both max thresholds.
+
+### Interpretation
+Using max thresholds in this way is powerful and changing the code in very minor ways can produce varied results.
+
 # Continuous Intelligence
 
 This site provides documentation for this project.

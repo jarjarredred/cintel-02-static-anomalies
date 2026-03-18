@@ -7,6 +7,8 @@
 ## by Jarred Gastreich, March 2026
 ### Updates:
 Updated project code to change max age and max height.
+Updated project code to change | to &.
+
 
 > Professional Python project for continuous intelligence.
 
